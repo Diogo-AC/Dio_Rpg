@@ -1,0 +1,13 @@
+C:\Users\Diogo\.vscode\Dio_Rpg\bin\Debug\netcoreapp3.1\Dio_Rpg.exe
+C:\Users\Diogo\.vscode\Dio_Rpg\bin\Debug\netcoreapp3.1\Dio_Rpg.deps.json
+C:\Users\Diogo\.vscode\Dio_Rpg\bin\Debug\netcoreapp3.1\Dio_Rpg.runtimeconfig.json
+C:\Users\Diogo\.vscode\Dio_Rpg\bin\Debug\netcoreapp3.1\Dio_Rpg.runtimeconfig.dev.json
+C:\Users\Diogo\.vscode\Dio_Rpg\bin\Debug\netcoreapp3.1\Dio_Rpg.dll
+C:\Users\Diogo\.vscode\Dio_Rpg\bin\Debug\netcoreapp3.1\Dio_Rpg.pdb
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.csprojAssemblyReference.cache
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.AssemblyInfoInputs.cache
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.AssemblyInfo.cs
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.dll
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.pdb
+C:\Users\Diogo\.vscode\Dio_Rpg\obj\Debug\netcoreapp3.1\Dio_Rpg.genruntimeconfig.cache
